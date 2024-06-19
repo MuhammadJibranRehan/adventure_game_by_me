@@ -1,0 +1,21 @@
+{
+  "name": "adventure_game_by_me",
+  "version": "1.0.0",
+  "description": "adventure_game.",
+  "main": "game.js",
+  "type": "module",
+  "bin": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Text-based game","Fighting game","Turn-based","Random chance","Health stat","Player vs Opponent","Inquirer.js","Chalk"],
+  "author": "M.jibran",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
